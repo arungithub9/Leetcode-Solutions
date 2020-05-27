@@ -13,7 +13,7 @@ A repository containing solutions for Leetcode problems written in Python 3. The
 ## Bloomberg :hammer_and_wrench:
 ## Facebook :hammer_and_wrench:
 ## Google :hammer_and_wrench:
-## Microsoft :hammer_and_wrench:
+## [Microsoft](Microsoft) :hammer_and_wrench:
 ## Uber :hammer_and_wrench:
 
 ## :package: Company Specific Tagged Questions - Coming Soon!
