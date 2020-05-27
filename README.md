@@ -8,7 +8,7 @@ A repository containing solutions for Leetcode problems written in Python 3. The
 ## :rocket: Interview Tracks:
 
 ## Adobe :hammer_and_wrench:
-## [Apple](Apple)[badge](https://img.shields.io/badge/1-90-orange.svg)
+## [Apple](Apple) ![badge](https://img.shields.io/badge/1-90-orange.svg)
 ## Amazon :hammer_and_wrench:
 ## Bloomberg :hammer_and_wrench:
 ## Facebook :hammer_and_wrench:
