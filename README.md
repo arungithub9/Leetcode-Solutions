@@ -9,7 +9,7 @@ A repository containing solutions for Leetcode problems written in Python 3. The
 
 ```Adobe```
 
-```Apple```
+```Apple```![badge](https://img.shields.io/badge/4-RIGHT-COLOR.svg)
 
 ```Amazon```
 
