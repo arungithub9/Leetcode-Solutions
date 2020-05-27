@@ -5,12 +5,26 @@ A repository containing solutions for Leetcode problems. The problems are organi
 
 ```
 Adobe
+```
+```
 Apple
+```
+```
 Amazon
+```
+```
 Bloomberg
+```
+```
 Microsoft
+```
+```
 Facebook
+```
+```
 Google
+```
+```
 Uber
 ```
 
