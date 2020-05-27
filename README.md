@@ -6,15 +6,14 @@ A repository containing solutions for Leetcode problems written in Python 3. The
 
 ## :rocket: Interview Tracks:
 
-## Adobe ![badge](https://img.shields.io/badge/0-90-orange.svg)
+## Adobe :hammer_and_wrench:
 ## Apple ![badge](https://img.shields.io/badge/1-90-orange.svg)
-## Amazon ![badge](https://img.shields.io/badge/1-90-orange.svg)
-## Bloomberg ![badge](https://img.shields.io/badge/1-90-orange.svg)
-## Facebook ![badge](https://img.shields.io/badge/1-90-orange.svg)
-## Google ![badge](https://img.shields.io/badge/1-90-orange.svg)
-## Microsoft ![badge](https://img.shields.io/badge/1-90-orange.svg)
-## Uber ![badge](https://img.shields.io/badge/1-90-orange.svg)
-
+## Amazon :hammer_and_wrench:
+## Bloomberg :hammer_and_wrench:
+## Facebook :hammer_and_wrench:
+## Google :hammer_and_wrench:
+## Microsoft :hammer_and_wrench:
+## Uber :hammer_and_wrench:
 
 ## :package: Company Specific Tagged Questions - Coming Soon!
 
