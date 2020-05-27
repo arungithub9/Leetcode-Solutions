@@ -6,27 +6,19 @@ A repository containing solutions for Leetcode problems. The problems are organi
 
 ```Adobe```
 
-```
-Apple
-```
-```
-Amazon
-```
-```
-Bloomberg
-```
-```
-Microsoft
-```
-```
-Facebook
-```
-```
-Google
-```
-```
-Uber
-```
+```Apple```
+
+```Amazon```
+
+```Bloomberg```
+
+```Microsoft```
+
+```Facebook```
+
+```Google```
+
+```Uber```
 
 ## Company Specific Tagged Questions - Coming Soon!
 
