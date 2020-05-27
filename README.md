@@ -16,7 +16,7 @@ A repository containing solutions for Leetcode problems written in Python 3. The
 ## Uber ![badge](https://img.shields.io/badge/1-90-orange.svg)
 
 
-## Company Specific Tagged Questions - Coming Soon!
+## :package: Company Specific Tagged Questions - Coming Soon!
 
 ```
 LinkedIn
