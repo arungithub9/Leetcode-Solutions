@@ -1,6 +1,7 @@
 # Solutions for Apple interview questions in Leetcode
 
 All solutions are listed below based on which track it falls under.
+
 :heavy_check_mark: - Solution Available
 ## Arrays and Strings
 
