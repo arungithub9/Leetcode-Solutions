@@ -6,7 +6,6 @@ A repository containing solutions for Leetcode problems. The problems are organi
 ```
 Adobe
 ```
-s
 ```
 Apple
 ```
