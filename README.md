@@ -6,22 +6,7 @@ A repository containing solutions for Leetcode problems written in Python 3. The
 
 ## Interview Tracks 
 
-
-```Adobe```
-
-```Apple```![badge](https://img.shields.io/badge/4-RIGHT-COLOR.svg)
-
-```Amazon```
-
-```Bloomberg```
-
-```Microsoft```
-
-```Facebook```
-
-```Google```
-
-```Uber```
+### Adobe ![badge](https://img.shields.io/badge/Completed-COLOR.svg)
 
 ## Company Specific Tagged Questions - Coming Soon!
 
