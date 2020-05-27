@@ -3,6 +3,7 @@
 
 # Leetcode-Solutions
 A repository containing solutions for Leetcode problems written in Python 3. The problems are organized into folders in the repository based on the company interview tracks in the Leetcode website, and specific company tagged questions for those that do not have a dedicated learning track. The completion rate is specified near the corresponding company
+:hammer_and_wrench: : Coming Soon. The number of questions solved / total questions in track is mentioned next to the company name using a badge. 
 
 ## :rocket: Interview Tracks:
 
