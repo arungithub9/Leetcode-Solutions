@@ -6,6 +6,7 @@ A repository containing solutions for Leetcode problems. The problems are organi
 ```
 Adobe
 ```
+s
 ```
 Apple
 ```
@@ -28,7 +29,7 @@ Google
 Uber
 ```
 
-## Company Specific Tagged Questions
+## Company Specific Tagged Questions - Coming Soon!
 
 ```
 LinkedIn
