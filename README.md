@@ -6,7 +6,7 @@ A repository containing solutions for Leetcode problems written in Python 3. The
 
 ## Interview Tracks 
 
-Adobe ![badge](https://img.shields.io/badge/Completed-COLOR.svg)
+```Adobe ![badge](https://img.shields.io/badge/Completed-COLOR.svg)```
 
 ## Company Specific Tagged Questions - Coming Soon!
 
